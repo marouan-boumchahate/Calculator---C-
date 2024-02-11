@@ -1,0 +1,11 @@
+C:\Users\marou\OneDrive\Desktop\Courses\PROGRAMMING\ProgrammingAdvisesCourses\MyProjectsAboutProgramming\C# Language\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\marou\OneDrive\Desktop\Courses\PROGRAMMING\ProgrammingAdvisesCourses\MyProjectsAboutProgramming\C# Language\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\marou\OneDrive\Desktop\Courses\PROGRAMMING\ProgrammingAdvisesCourses\MyProjectsAboutProgramming\C# Language\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\marou\OneDrive\Desktop\Courses\PROGRAMMING\ProgrammingAdvisesCourses\MyProjectsAboutProgramming\C# Language\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\marou\OneDrive\Desktop\Courses\PROGRAMMING\ProgrammingAdvisesCourses\MyProjectsAboutProgramming\C# Language\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\marou\OneDrive\Desktop\Courses\PROGRAMMING\ProgrammingAdvisesCourses\MyProjectsAboutProgramming\C# Language\Calculator\bin\Debug\Calculator.exe
+C:\Users\marou\OneDrive\Desktop\Courses\PROGRAMMING\ProgrammingAdvisesCourses\MyProjectsAboutProgramming\C# Language\Calculator\bin\Debug\Calculator.pdb
+C:\Users\marou\OneDrive\Desktop\Courses\PROGRAMMING\ProgrammingAdvisesCourses\MyProjectsAboutProgramming\C# Language\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\marou\OneDrive\Desktop\Courses\PROGRAMMING\ProgrammingAdvisesCourses\MyProjectsAboutProgramming\C# Language\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\marou\OneDrive\Desktop\Courses\PROGRAMMING\ProgrammingAdvisesCourses\MyProjectsAboutProgramming\C# Language\Calculator\obj\Debug\Calculator.exe
+C:\Users\marou\OneDrive\Desktop\Courses\PROGRAMMING\ProgrammingAdvisesCourses\MyProjectsAboutProgramming\C# Language\Calculator\obj\Debug\Calculator.pdb
